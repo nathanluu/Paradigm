@@ -1,36 +1,27 @@
-## Welcome to GitHub Pages
+## Paradigm is a new approach to the online classroom.
 
-You can use the [editor on GitHub](https://github.com/nathanluu/Paradigm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Paradigm is designed with so many simple, yet powerful features that bring the online classroom to the next level. Teachers can post all sorts of material and monitor student progress. Students can track their grades and assignments all in one place. Paradigm is about providing just the right tools to students and educators and none that are not needed.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Students are empowered to do their best and see where they can improve.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Students are given instant feedback about their performance. Students know exactly where they struggle, and are given recommendations that make sure they don't fall behind. 
 
-```markdown
-Syntax highlighted code block
+- Know exactly whats due and when.
+- Get instant feedback about performance.
+- Easily communicate with other students and educators.
+- Know how an assignment will affect their overall grade.
 
-# Header 1
-## Header 2
-### Header 3
+### Teachers can monitor student progress and design assignments that suit their needs.
 
-- Bulleted
-- List
+Teachers are given the tools to create their own beautiful assignments with all sorts of different question types. Most assesments grade themselves instantly. Teachers can easily monitor student progress and see where the class struggles. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathanluu/Paradigm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Get feedback on where students struggle.
+- Machine learning provides intelligent recommendations to improve student performance.
+- Gradebook syncs effortlessly with the most popular SIS (i.e. Powerschool, Aeris etc.)
+- Design beautiful assesments for a wide range of subjects.
+- Borrow assesments from the community.
 
 ### Support or Contact
 
